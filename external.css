@@ -213,11 +213,11 @@ header>.banner-container {
 /*#########my-inspiation######################*/
 
 /********my current Target************************ */
-.my-current-target{border: 1px solid red;
+.my-current-target{
                      width: 87%;
                      margin: auto;
                       margin-bottom: 120px;}
-.my-cur-text-con {border: 1px solid red;
+.my-cur-text-con {
                   width: 70%;
                   text-align: center;
                   margin: auto;}                     
@@ -227,7 +227,7 @@ header>.banner-container {
                      margin-bottom: 20px;
                      line-height:18px;
                     }             
-.my-cur-card-con{border: 1px solid red;
+.my-cur-card-con{
  display:flex;
  gap: 30px;}             
  
