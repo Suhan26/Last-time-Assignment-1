@@ -170,7 +170,11 @@ header>.banner-container {
     height: 40px;
 
 }
-
+.w-w-dev-cont>.w-w-dev-cont-texts>a>button:hover{background-color: green;
+border: none;
+border-radius: 6px;
+color: white;
+}
 
 .img {
     width: 200px;
@@ -240,6 +244,7 @@ header>.banner-container {
                           height: fit-content;
                           border-radius: 16px;
                           padding:30px ;
+                          height: 225px;
                           display: flex;
                            flex-direction: column;
                            justify-content: start;
