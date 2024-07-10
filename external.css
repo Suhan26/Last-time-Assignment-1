@@ -215,7 +215,7 @@ color: white;
                 display: flex;
                  align-items: center;
                 justify-content: center;
-                margin-bottom: 150px;
+                margin-bottom: 120px;
                 } 
 .vido-container > iframe{border-radius: 16px;}
 /*#########my-inspiation######################*/
@@ -232,7 +232,7 @@ color: white;
 .my-cur-text-con > h1{font-size: 25px;}                   
 .my-cur-text-con > p{font-size: 15px;
                      margin-top: 20px;
-                     margin-bottom: 20px;
+                     margin-bottom: 30px;
                      line-height:18px;
                     }             
 .my-cur-card-con{
