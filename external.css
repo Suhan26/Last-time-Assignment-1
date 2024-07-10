@@ -212,6 +212,51 @@ header>.banner-container {
 .vido-container > iframe{border-radius: 16px;}
 /*#########my-inspiation######################*/
 
+/********my current Target************************ */
+.my-current-target{border: 1px solid red;
+                     width: 87%;
+                     margin: auto;
+                      margin-bottom: 120px;}
+.my-cur-text-con {border: 1px solid red;
+                  width: 70%;
+                  text-align: center;
+                  margin: auto;}                     
+.my-cur-text-con > h1{font-size: 25px;}                   
+.my-cur-text-con > p{font-size: 15px;
+                     margin-top: 20px;
+                     margin-bottom: 20px;
+                     line-height:18px;
+                    }             
+.my-cur-card-con{border: 1px solid red;
+ display:flex;
+ gap: 30px;}             
+ 
+ 
+ .my-cur-card-con > .card{
+                          height: fit-content;
+                          border-radius: 16px;
+                          padding:30px ;
+                          display: flex;
+                           flex-direction: column;
+                           justify-content: start;
+                           gap:17px;
+                           }
+.my-cur-card-con > .card >img{width: 55px;}                           
+.my-cur-card-con > .card >h1{font-size:25px;}                           
+.my-cur-card-con > .card >p{font-size: 15px;
+                             font-weight:600;
+                             color: rgb(130, 127, 120);}                           
+.my-cur-card-con > .card > a{font-size:19px;
+                              color: black;
+                              font-weight: 700;
+                           }       
+                           
+.card1{background: rgba(255, 76, 30, 0.05);}                         
+.card2{background: rgba(0, 76, 232, 0.05);}                         
+.card3{background: rgba(255, 223, 0, 0.05);}                        
+
+/*########my current Target##########*/
+
 
 /* I Need support all style *********/
 .i-need-container {
